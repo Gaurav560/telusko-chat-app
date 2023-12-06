@@ -1,7 +1,0 @@
-com\telusko\websocket\chat\ChatController.class
-com\telusko\websocket\chat\MessageType.class
-com\telusko\websocket\chat\ChatMessage$ChatMessageBuilder.class
-com\telusko\websocket\ChatApplication.class
-com\telusko\websocket\config\WebSocketEventListener.class
-com\telusko\websocket\config\WebSocketConfig.class
-com\telusko\websocket\chat\ChatMessage.class
